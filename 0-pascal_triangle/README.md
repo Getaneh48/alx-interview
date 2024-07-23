@@ -6,6 +6,7 @@ Generally, we can use Pascal's triangle to find the coefficients of binomial exp
 ## What is Pascal's Triangle?
 
 A pascal's triangle is an arrangement of numbers in a triangular array such that the numbers at the end of each row are 1 and the remaining numbers are the sum of the nearest two numbers in the above row. This concept is used widely in probability, combinatorics, and algebra. Pascal's triangle is used to find the likelihood of the outcome of the toss of a coin, coefficients of binomial expansions in probability, etc.
+![pascal triangle](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/pascals-triangle-1622524728.png)
 
 ## Pascals Triangle Explained
 
